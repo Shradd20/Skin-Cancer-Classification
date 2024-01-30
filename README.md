@@ -33,3 +33,14 @@ Step 6: Setting Optimizer & Annealing
 Step 7: Fitting the model
 
 Step 8: Model Evaluation
+
+# Output
+![Screenshot (296)](https://github.com/Shradd20/Skin-Cancer-Classification/assets/68496510/131d1479-dfe8-4d61-a8e8-03e8a92e7dbf)
+![Screenshot (297)](https://github.com/Shradd20/Skin-Cancer-Classification/assets/68496510/59b3de61-76c0-4d6d-b873-6674fb40d615)
+![Screenshot (298)](https://github.com/Shradd20/Skin-Cancer-Classification/assets/68496510/218b8bd9-526f-4380-870f-ccfa56645c25)
+![Uploading Screenshot (299).png…]()
+![Uploading Screenshot (300).png…]()
+
+
+
+
