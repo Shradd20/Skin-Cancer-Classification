@@ -43,6 +43,10 @@ Step 8: Model Evaluation
 ![Screenshot (301)](https://github.com/Shradd20/Skin-Cancer-Classification/assets/68496510/d5276046-6cfd-4da6-b983-678fe92af5ce)
 ![Screenshot (302)](https://github.com/Shradd20/Skin-Cancer-Classification/assets/68496510/54866f4c-742c-4854-961f-7ac7456be6a3)
 ![Screenshot (303)](https://github.com/Shradd20/Skin-Cancer-Classification/assets/68496510/6b45a4b2-7ecd-49af-b704-a22d9b630a3a)
+![Screenshot (304)](https://github.com/Shradd20/Skin-Cancer-Classification/assets/68496510/4a0cd43b-28d8-423f-a96d-821d929f3e19)
+![Screenshot (305)](https://github.com/Shradd20/Skin-Cancer-Classification/assets/68496510/c4b2c591-ad0c-4b2d-8ac4-d9b1c729894b)
+
+
 
 
 
